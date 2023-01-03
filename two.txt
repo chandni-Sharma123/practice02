@@ -1,1 +1,1 @@
-hiii
+print("my name is preeti singh")
