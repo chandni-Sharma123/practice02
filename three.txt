@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 MY NAME IS SUBHSHREE I LIKE TO TALK WITH PEPOLE
+=======
+That is my "group"
+>>>>>>> 69ef35e9d13badb7565b473e067d88238fc183fe
